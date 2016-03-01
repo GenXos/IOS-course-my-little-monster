@@ -1,2 +1,2 @@
-# IOS-course-my-little-monster
-A project that is a throwback to the Gigapet era. 
+# my-little-monster
+A throwback to the Gigapet era. 
